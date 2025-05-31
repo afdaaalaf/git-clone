@@ -1,3 +1,4 @@
 # git-test
 
-Repo untuk belajar GIT
+Repo untuk belajar GIT remote (GIT clone)
+
